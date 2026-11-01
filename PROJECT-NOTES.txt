@@ -1,0 +1,7 @@
+Nexxvora Conference Template
+
+Static front-end demonstration only. The registration form is not connected to a server and does not collect submissions.
+
+A dedicated contact section now invites visitors who need a real-world project to contact Nexxvora via https://nexxvora.netlify.app/ or nexxvora.tech@gmail.com. Backend, admin dashboard, real registration and payment features require separate development.
+
+Update: sample event content replaced with a professional "Horizon Summit 2027" conference. Added a Three.js 3D hero (bundled in assets/vendor), 3D tilt cards, scroll animations, countdown, working agenda tabs, venue gallery, ticket tiers and illustrated SVG imagery. Nexxvora branding, links and contact details are unchanged.
