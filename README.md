@@ -59,24 +59,31 @@ No redistribution or commercial-use license is granted by this starter README. A
 Before publishing, replace sample event dates, speaker names and schedule details with accurate content. Only publish assets you own or are licensed to use.
 
 Home Page
+
 <img width="1920" height="1080" alt="Screenshot (950)" src="https://github.com/user-attachments/assets/045116b4-2246-4e87-8ab8-9b60e9799838" />
 
 About Page
+
 <img width="1920" height="1080" alt="Screenshot (951)" src="https://github.com/user-attachments/assets/22fbed5f-08ce-4ef3-b547-a00d0b433699" />
 
 Track Page
+
 <img width="1920" height="1080" alt="Screenshot (952)" src="https://github.com/user-attachments/assets/8798e937-d448-4fb1-b6b7-a39a7afa6671" />
 
 Speakers Page
+
 <img width="1920" height="1080" alt="Screenshot (953)" src="https://github.com/user-attachments/assets/1a198aed-0dbb-4541-a4d5-2ebc967ec3fe" />
 
 Agenda Page
+
 <img width="1920" height="1080" alt="Screenshot (954)" src="https://github.com/user-attachments/assets/c6f204ce-dea4-45e9-bc87-9212c83565dc" />
 
 Tickets Page
+
 <img width="1920" height="1080" alt="Screenshot (956)" src="https://github.com/user-attachments/assets/6488aefd-1aed-4327-93ac-a4cc94493efd" />
 
 Contact Page
+
 <img width="1920" height="1080" alt="Screenshot (957)" src="https://github.com/user-attachments/assets/a597783f-7234-4e50-a872-668b7f9ec7ff" />
 
 
