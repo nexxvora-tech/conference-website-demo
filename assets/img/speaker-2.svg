@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" role="img" aria-label="Speaker portrait illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#13324f"/><stop offset="1" stop-color="#10131c"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".38" r=".6"><stop offset="0" stop-color="#6fd0ec" stop-opacity=".55"/><stop offset="1" stop-color="#6fd0ec" stop-opacity="0"/></radialGradient>
+<linearGradient id="suit" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1d2b46"/><stop offset="1" stop-color="#0d0c12"/></linearGradient>
+</defs>
+<rect width="400" height="480" fill="url(#bg)"/>
+<rect width="400" height="480" fill="url(#glow)"/>
+<g fill="none" stroke="#fff" stroke-opacity=".16"><circle cx="200" cy="230" r="150"/><circle cx="200" cy="230" r="195"/><circle cx="200" cy="230" r="240"/></g>
+<g fill="#fff" fill-opacity=".5"><circle cx="64" cy="96" r="3"/><circle cx="338" cy="70" r="2.5"/><circle cx="352" cy="190" r="3.5"/><circle cx="48" cy="250" r="2"/></g>
+<path d="M60 480C60 385 118 342 200 342C282 342 340 385 340 480Z" fill="url(#suit)"/><rect x="174" y="288" width="52" height="72" rx="20" fill="#7a4d36"/><rect x="174" y="288" width="52" height="30" rx="14" fill="#000" fill-opacity=".16"/><path d="M160 346L200 408L240 346L226 342L200 372L174 342Z" fill="#f1eef5"/><path d="M200 372L186 480L214 480Z" fill="#6fd0ec" fill-opacity=".9"/><ellipse cx="200" cy="236" rx="62" ry="76" fill="#7a4d36"/><circle cx="138" cy="242" r="12" fill="#7a4d36"/><circle cx="262" cy="242" r="12" fill="#7a4d36"/><path d="M140 250C142 318 172 330 200 330C228 330 258 318 260 250C246 280 226 288 200 288C174 288 154 280 140 250Z" fill="#14100f" fill-opacity=".92"/><path d="M136 226C128 140 272 140 264 226C252 190 222 176 200 176C178 176 148 190 136 226Z" fill="#14100f"/><g fill="#1b1522"><ellipse cx="177" cy="238" rx="5" ry="6"/><ellipse cx="223" cy="238" rx="5" ry="6"/></g><path d="M180 275Q200 291 220 275" fill="none" stroke="#1b1522" stroke-width="4" stroke-linecap="round" stroke-opacity=".85"/><ellipse cx="160" cy="262" rx="11" ry="7" fill="#ff7a9a" fill-opacity=".18"/><ellipse cx="240" cy="262" rx="11" ry="7" fill="#ff7a9a" fill-opacity=".18"/></svg>
